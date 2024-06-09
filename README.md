@@ -1,2 +1,0 @@
-# hwid.md
-hwiwi

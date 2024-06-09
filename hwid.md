@@ -1,0 +1,2 @@
+# hwid.md
+ab2479a7462d900906bb77f89eabe1829b9a987da5f686835f3543a22b871019 - owner (lifetime)
